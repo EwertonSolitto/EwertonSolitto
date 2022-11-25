@@ -1,6 +1,6 @@
 # Opa! Eu sou Ewerton Solitto! 👋
 
-<p>🔥 Desenvolvedor Full Stack Jr.</p>
+<p>🔥 Desenvolvedor Front End</p>
 
 <br>
 
