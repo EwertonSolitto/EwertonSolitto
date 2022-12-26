@@ -1,10 +1,17 @@
-# Opa! Eu sou Ewerton Solitto! 👋
+# Hi! I'm Ewerton Solitto! 👋
 
-<p>🔥 Desenvolvedor Front End</p>
+- 🔥 Fullstack Developer
 
 <br>
 
-## 🛠️ &nbsp;Tecnologias que domino
+<p>
+  <a href="https://github.com/EwertonSolitto">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EwertonSolitto&show_icons=true&theme=merko&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonSolitto&layout=compact&show_icons=true&theme=merko&hide_border=true"/>
+  </a>
+</p>
+
+<br>
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,11 +25,4 @@
   <img alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
 </p>
 
-<br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=EwertonSolitto&show_icons=true&theme=merko&hide_border=true"/>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonSolitto&layout=compact&show_icons=true&theme=merko&hide_border=true"/>
-</p>
