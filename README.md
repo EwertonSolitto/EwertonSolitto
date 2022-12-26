@@ -1,28 +1,34 @@
-# Hi! I'm Ewerton Solitto! 👋
+## Hi! I'm Ewerton Solitto! 👋
 
 - 🔥 Fullstack Developer
 
-<br>
+
+
+## 🛠️ Skills
+
+<p>
+  <img alt="HTML" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Javascript" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="Typescript" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="ReactJS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="NodeJS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="TailwindCSS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img alt="Sass" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img alt="Bootstrap" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="Graphql" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img alt="MongoDB" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</p>
+
+## 📱 Social Media
+
+[![NPM](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerton-solitto/)
+
+##
 
 <p>
   <a href="https://github.com/EwertonSolitto">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EwertonSolitto&show_icons=true&theme=merko&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonSolitto&layout=compact&show_icons=true&theme=merko&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonSolitto&show_icons=true&theme=merko&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonSolitto&layout=compact&show_icons=true&theme=merko&hide_border=true"/>
   </a>
 </p>
-
-<br>
-
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
-</p>
-
-
