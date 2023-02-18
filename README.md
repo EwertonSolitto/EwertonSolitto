@@ -9,30 +9,35 @@
 
 <table align='center'>
   <tr>
-    <td><img alt="HTML" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
-    <td><img alt="CSS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
-    <td><img alt="Javascript" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></td>
-    <td><img alt="Typescript" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
+    <td align='center'><img alt="HTML" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
+    <td align='center'><img alt="CSS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
+    <td align='center'><img alt="Javascript" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></td>
+    <td align='center'><img alt="Typescript" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
     <td><img alt="ReactJS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
     <td> <img alt="NodeJS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
     <td><img alt="TailwindCSS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></td>
-    <td><img alt="Sass" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
-    <td><img alt="Bootstrap" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></td>
-    <td><img alt="Graphql" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></td>
-    <td><img alt="MongoDB" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></td>
+
   </tr>
   <tr>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>Javascript</td>
-    <td>Typescript</td>
-    <td>ReactJS</td>
-    <td>NodeJS</td>
-    <td>TailwindCSS</td>
-    <td>Sass</td>
-    <td>Bootstrap</td>
-    <td>GraphQL</td>
-    <td>MongoDB</td>
+    <td align='center'>HTML</td>
+    <td align='center'>CSS</td>
+    <td align='center'>Javascript</td>
+    <td align='center'>Typescript</td>
+    <td align='center'>ReactJS</td>
+    <td align='center'>NodeJS</td>
+    <td align='center'>TailwindCSS</td>
+  </tr>
+  <tr>
+    <td align='center'><img alt="Sass" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
+    <td align='center'><img alt="Bootstrap" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></td>
+    <td align='center'><img alt="Graphql" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></td>
+    <td align='center'><img alt="MongoDB" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></td>
+  </tr>
+  <tr>
+    <td align='center'>Sass</td>
+    <td align='center'>Bootstrap</td>
+    <td align='center'>GraphQL</td>
+    <td align='center'>MongoDB</td>
   </tr>
 </table>
 
