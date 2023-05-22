@@ -1,4 +1,4 @@
-## Hi Sir! I'm Ewerton Solitto! 🍷🗿 
+## Hi! I'm Ewerton Solitto! 
 
 - 🔥 Fullstack Developer
 
