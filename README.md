@@ -21,6 +21,7 @@
     <td align='center'><img alt="ReactJS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
     <td align='center'><img alt="TailwindCSS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></td>
     <td align='center'><img alt="Sass" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
+     <td align='center'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></td>
   </tr>
   <tr>
     <td align='center'><Strong>Name</strong></td>
@@ -31,6 +32,7 @@
     <td align='center'>ReactJS</td>
     <td align='center'>TailwindCSS</td>
     <td align='center'>Sass</td>
+    <td align='center'>NextJS</td>
   </tr>
   <tr>
     <td align='center'><Strong>Technology</strong></td>
