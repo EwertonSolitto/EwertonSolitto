@@ -60,6 +60,6 @@
 
 <p align='center'>
   <a href="https://github.com/EwertonSolitto">
-  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonsolitto&show_icons=true&bg_color=207AAC,272D3F,0F1621,&langs_count=10&hide=Shell,Javascript,Go,Dockerfile&layout=compact&hide_border=true&text_color=7FADEB&title_color=207AAC"/>
+  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonsolitto&show_icons=true&bg_color=207AAC,272D3F,0F1621,&langs_count=10&hide=Shell,Go,Dockerfile,Solidity,Vue&layout=compact&hide_border=true&text_color=7FADEB&title_color=207AAC"/>
   </a>
 </p>
