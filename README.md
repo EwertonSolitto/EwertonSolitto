@@ -1,6 +1,6 @@
 ## Hi! I'm Ewerton Solitto! 
 
-- 🔥 Fullstack Developer
+- 🔥 Front-end Developer
 
 - 🚀 Always improving my skills
 
