@@ -8,6 +8,8 @@
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/ewerton-solitto/)
 
+- 📔 [Portfolio](https://portfolio-ewertonsolitto.vercel.app/)
+
 ## 🛠️ Skills
 
 <table align='center' border='2'>
@@ -19,9 +21,9 @@
     <td align='center'><img alt="HTML" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
     <td align='center'><img alt="CSS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
     <td align='center'><img alt="ReactJS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
-    <td align='center'><img alt="TailwindCSS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></td>
+    <td align='center'><img alt="TailwindCSS" width="60em" height="80em" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" /></td>
     <td align='center'><img alt="Sass" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
-     <td align='center'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></td>
+    <td align='center'><img alt="Next.js" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></td>
   </tr>
   <tr>
     <td align='center'><Strong>Name</strong></td>
@@ -32,7 +34,7 @@
     <td align='center'>ReactJS</td>
     <td align='center'>TailwindCSS</td>
     <td align='center'>Sass</td>
-    <td align='center'>NextJS</td>
+    <td align='center'>Next.js</td>
   </tr>
   <tr>
     <td align='center'><Strong>Technology</strong></td>
