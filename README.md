@@ -21,8 +21,8 @@
     <td align='center'><img alt="HTML" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
     <td align='center'><img alt="CSS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
     <td align='center'><img alt="ReactJS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
+    <td align='center'><img alt="ReactJS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
     <td align='center'><img alt="TailwindCSS" width="60em" height="80em" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" /></td>
-    <td align='center'><img alt="Sass" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
     <td align='center'><img alt="Next.js" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></td>
   </tr>
   <tr>
@@ -32,12 +32,13 @@
     <td align='center'>HTML</td>
     <td align='center'>CSS</td>
     <td align='center'>ReactJS</td>
+    <td align='center'>React Native</td>
     <td align='center'>TailwindCSS</td>
-    <td align='center'>Sass</td>
     <td align='center'>Next.js</td>
   </tr>
   <tr>
     <td align='center'><Strong>Technology</strong></td>
+    <td align='center'><img alt="Sass" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
     <td align='center'><img alt="Bootstrap" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></td>
     <td align='center'><img alt="Figma" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></td>
     <td align='center'><img alt="NodeJS" width="60em" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
@@ -48,6 +49,7 @@
   </tr>
   <tr>
     <td align='center'><Strong>Name</strong></td>
+    <td align='center'>Sass</td>
     <td align='center'>Bootstrap</td>
     <td align='center'>Figma</td>
     <td align='center'>NodeJS</td>
