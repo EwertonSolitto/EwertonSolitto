@@ -8,7 +8,7 @@
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/ewerton-solitto/)
 
-- 📔 [Portfolio](https://portfolio-ewertonsolitto.vercel.app/)
+- 📔 [Portfolio](https://portfolio-ewertonsolittos-projects.vercel.app/)
 
 ## 🛠️ Skills
 
